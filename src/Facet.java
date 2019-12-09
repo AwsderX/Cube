@@ -14,7 +14,7 @@ public class Facet {
             R3Vector.return_vector(x.vertex[i]);
         }
     }
-    public static void rotate(){
+    public static void rotate(R3Vector x,R3Vector y, R3Vector z){
 
     }
 }

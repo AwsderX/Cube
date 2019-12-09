@@ -5,7 +5,6 @@ public class Main {
         R3Vector v_3 = new R3Vector(1,1,0);
         R3Vector v_4 = new R3Vector(0,1,0);
         Facet x = new Facet(v_1,v_2,v_3,v_4);
-        Facet.rotate();
         Facet.print(x);
     }
 }
